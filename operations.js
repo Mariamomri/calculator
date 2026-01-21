@@ -2,6 +2,8 @@
 function add(a, b) {
   return a + b;
 }
+
+// Soustraction de deux nombres
 function subtract(a, b) {
   return a - b;
 }
