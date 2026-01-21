@@ -1,6 +1,6 @@
 // Addition de deux nombres
 function add(a, b) {
-  return a + b; // Commentaire important
+  return a + b; // Commentaire important.
 }
 
 // Soustraction de deux nombres
