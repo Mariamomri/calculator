@@ -17,7 +17,7 @@ function divide(a, b) {
     return "Erreur: division par zéro";
   }
   return a / b;
-}
+} //
 
 function power(a, b) {
   return Math.pow(a, b);
